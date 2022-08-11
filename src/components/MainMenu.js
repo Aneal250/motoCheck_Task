@@ -193,6 +193,11 @@ const MainMenu = () => {
 					<hr />
 				</div>
 			</div>
+			<div className="flex flex-row items-center">
+				<button class=" mx-auto bg-transparent hover:bg-blue-500 active font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+					View More Activity
+				</button>
+			</div>
 		</div>
 	);
 };

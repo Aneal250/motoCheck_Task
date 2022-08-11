@@ -24,3 +24,21 @@ code {
 .active_bg {
 	background-color: #eef8fb;
 }
+
+.bg {
+	background-image: url("/src/img/line-bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.card_1 {
+	background-color: #ffe6d1;
+}
+
+.card_2 {
+	background-color: #e9f4fa;
+}
+
+.card_3 {
+	background-color: #ffe3e0;
+}
